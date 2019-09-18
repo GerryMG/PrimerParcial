@@ -185,6 +185,12 @@
                                                                                                                                                                                         font-size: 3.5em;
                                                                                                                                                                                         color: #0AC693;
                                                                                                                                                                                     }
+                                                                                                                                                                                    
+                                                                                                                                                                                    .fa-arrow-circle-down:hover {
+                                                                                                                                                                                        margin-top: 1.5em;
+                                                                                                                                                                                        font-size: 3.5em;
+                                                                                                                                                                                        color: white;
+                                                                                                                                                                                    }
                                                                                                                                                                                     /* About */
                                                                                                                                                                                     
                                                                                                                                                                                     .about {
@@ -315,6 +321,11 @@
                                                                                                                                                                                     
                                                                                                                                                                                     .ccontact>form>* {
                                                                                                                                                                                         width: 80%;
+                                                                                                                                                                                    }
+                                                                                                                                                                                    
+                                                                                                                                                                                    .contact-form input[type="submit"]:hover {
+                                                                                                                                                                                        background-color: white;
+                                                                                                                                                                                        color: #0D5061;
                                                                                                                                                                                     }
                                                                                                                                                                                     
                                                                                                                                                                                     @media only screen and (max-device-width: 736px) and (orientation: landscape) {
